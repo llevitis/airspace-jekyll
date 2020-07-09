@@ -1,0 +1,41 @@
+- name: Water Damage
+  description: 
+  image: img/services/water_damage.svg
+  
+- name: Theft and Vandalism
+  description: 
+  image: img/services/theft_vandalism.svg
+  
+- name: Storm Damage
+  description: 
+  image: img/services/storm_damage.svg
+  
+- name: Flood
+  description: 
+  image: img/services/flood.svg
+  
+- name: Appliance Leak
+  description: 
+  image: img/services/appliance_leak.svg
+  
+- name: Burst Pipe
+  description: 
+  image: img/services/burst_pipe.svg
+  
+- name: Subsidence
+  description: 
+  image: img/services/subsidence.svg
+  
+- name: Fire Damage
+  description: 
+  image: img/services/fire_damage.svg
+
+  
+- name: Flooring Damage
+  description: 
+  image: img/services/flooring_damage.svg
+  
+  
+- name: Accidental
+  description: 
+  image: img/services/accidental.svg
